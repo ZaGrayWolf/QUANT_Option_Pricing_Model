@@ -17,13 +17,13 @@ A derivative's value is derived from an underlying asset, such as a stock. The o
 
 The objective of this project is to estimate the option price using a mathematical model based on the following features:
 
-- Type of the Option**: Call or Put
+- Type of the Option: Call or Put
 - Spot Value of the Underlier Stock
 - Strike Price of the Option
-- Risk-Free Rate**: The interest rate at which market participants can borrow or lend money
-- Time to Expiry**: The time remaining until the option's expiration
-- Market Fear Index**: A hypothetical metric indicating market volatility, ranging from 0 (calm) to 100 (volatile)
-- Buy/Sell Ratio**: A hypothetical metric indicating market demand, ranging from 0.25 (high sell orders) to 4 (high buy orders)
+- Risk-Free Rate: The interest rate at which market participants can borrow or lend money
+- Time to Expiry: The time remaining until the option's expiration
+- Market Fear Index: A hypothetical metric indicating market volatility, ranging from 0 (calm) to 100 (volatile)
+- Buy/Sell Ratio: A hypothetical metric indicating market demand, ranging from 0.25 (high sell orders) to 4 (high buy orders)
 
 ## Training Dataset
 
