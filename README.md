@@ -1,5 +1,4 @@
 
-```markdown
 # [QUANT] Option Pricing Model
 
 ## Description
